@@ -2,7 +2,7 @@
 body{
 text-align:left;
 margin:0;
-background: #A8D0E6;
+background: #2E3047;
 font-family: "Times New Roman", Times, serif;	
 max-width:1920px;
 max-height:1080px;
@@ -12,7 +12,7 @@ max-height:1080px;
 .header{
 width:80%;
 height:5%;
-color:#24305E;
+color:#3bba9c;
 float: right;
 }
 
@@ -30,7 +30,7 @@ font-size:20px;
 width:76%;
 height:95%;
 float:right;	
-color:#24305E;
+color:#FFFFFF;
 text-align: justify;
 font-size:20px;
 padding-left: 2%;
@@ -47,6 +47,7 @@ h2{
 font-size:40px;
 text-align:center;
 font-weight: normal;
+color: #FFFFFF;
 }
 
 h3{
@@ -129,7 +130,7 @@ font-weight:semi-bold;
   list-style-type: none;
   margin: 0;
   width: 20%;
-  background-color: #374785;
+  background-color: #3C3F58;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -146,11 +147,11 @@ font-weight:semi-bold;
 
 .vertical-menu a:hover {
   background-color: #ccc; /* Dark grey background on mouse-over */
-  color: #24305E;	
+  color: #3bba9c;	
 }
 
 .vertical-menu a.active {
-  background-color: #24305E; /* Add a color to the "active/current" link */
+  background-color: #707793; /* Add a color to the "active/current" link */
   color: white;
 }
 
