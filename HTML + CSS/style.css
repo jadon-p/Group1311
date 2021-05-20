@@ -3,7 +3,7 @@ body{
 text-align:left;
 margin:0;
 background: #A8D0E6;
-font-family: arial, sans-serif;
+font-family: "Times New Roman", Times, serif;	
 max-width:1920px;
 max-height:1080px;
 }
@@ -155,7 +155,6 @@ font-weight:semi-bold;
 }
 
 table {
-  font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
   background-color: #374785;
