@@ -168,4 +168,16 @@ td, th {
   padding: 8px;
 }
 
+a{
+  color: #ffffff;
+  background-color: transparent;
+  text-decoration:none;
+}
+
+
+a:hover {
+  color: #f76c6c;
+  background-color: transparent;
+  text-decoration:none;
+}
 
